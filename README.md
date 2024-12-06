@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Yudhveer-ctrl  
+- 👀 I’m passionate about exploring insights from data and leveraging it to drive impactful decisions.  
+- 🌱 I’m currently learning data analytics, including Python, Power BI, and advanced visualization techniques.  
+- 💡 I’m looking to collaborate on data analysis projects, e-commerce sales insights, or real-world analytics challenges.  
+- 📫 How to reach me: [yudhveerengg@gmail.com](mailto:yudhveerengg@gmail.com)  and yudsingh@algomau.ca.
+- 😊 Pronouns: He  
+- ⚡ Fun fact: I find patterns in data just as exciting as solving puzzles!  
